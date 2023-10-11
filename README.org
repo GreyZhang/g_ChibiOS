@@ -2,3 +2,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133207081][1794_ChibiOS网络书籍的介绍阅读]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133207196][1795_ChibiOS网络书籍阅读_实时系统的一些概念]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133582224][1803_ChibiOS网络书籍阅读_嵌入式RTOS介绍]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133777832][1808_ChibiOS基本的架构介绍]]
