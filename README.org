@@ -9,3 +9,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133935078][1815_ChibiOS中的虚拟定时器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134092298][1816_ChibiOS中的RT调度器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134092412][1817_ChibiOS的RT线程]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134092440][1818_ChibiOS的计数信号量]]
