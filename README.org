@@ -7,3 +7,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133934992][1813_ChibiOS的RT系统层]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133935033][1814_ChibiOS中的时间以及时间间隔处理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133935078][1815_ChibiOS中的虚拟定时器]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134092298][1816_ChibiOS中的RT调度器]]
