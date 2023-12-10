@@ -18,3 +18,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/134229812][1825_ChibiOS的OSLIB中的存储分配器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911196][1826_ChibiOS的OSLIB中的二值信号量]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911281][1827_ChibiOS中OSLIB的邮箱机制]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134911310][1828_ChibiOS中的对象FIFO]]
